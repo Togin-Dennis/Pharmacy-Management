@@ -6,12 +6,12 @@
    
    
 
-<div> <img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Admin%20Login.png" width="400" height="200" />
-<img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Pharmacist.png" width="400" height="200" />
+<div> <img src="https://github.com/Togin-Dennis/Pharmacy-Management/blob/main/screenshot/Admin%20Login.png?raw=true" width="400" height="200" />
+<img src="https://github.com/Togin-Dennis/Pharmacy-Management/blob/main/screenshot/Doctor%20Login.png?raw=true" width="400" height="200" />
 </div>
-<div> <img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Doctor%20Login.png" width="400" height="200" />
-<img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Receptionist%20Login.png" width="400" height="200" />
-    <img src="https://github.com/tech-jamara/PharmacyManagementSystem/blob/main/screenshot/Patient%20login.png" width="400" height="200" />
+<div> <img src="https://github.com/Togin-Dennis/Pharmacy-Management/blob/main/screenshot/Patient%20login.png?raw=true" width="400" height="200" />
+<img src="https://github.com/Togin-Dennis/Pharmacy-Management/blob/main/screenshot/Pharmacist.png?raw=true" width="400" height="200" />
+    <img src="https://github.com/Togin-Dennis/Pharmacy-Management/blob/main/screenshot/Receptionist%20Login.png?raw=true" width="400" height="200" />
 </div>
 
 ## Run these Commads
