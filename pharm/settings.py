@@ -29,11 +29,11 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ['pharmacymanage.herokuapp.com']
 ALLOWED_HOSTS = [
-    'pharmacy-management-system2.herokuapp.com',
     'pharmacy-management-vonj.onrender.com',
     '127.0.0.1',
     'localhost'
 ]
+
 
 
 # Application definition
